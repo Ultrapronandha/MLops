@@ -5,4 +5,4 @@ numpy
 pylint
 flake8
 black
-fastapi
+fastapi1
