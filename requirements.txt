@@ -7,3 +7,4 @@ flake8
 black
 fastapi1
 apinew
+python3
